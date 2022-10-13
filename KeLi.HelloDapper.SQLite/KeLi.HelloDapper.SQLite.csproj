@@ -7,7 +7,7 @@
     <ProjectGuid>{A508A1D6-8580-4C31-92F8-E53C90A424D5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>KeLi.HelloDapper.SQLite</RootNamespace>
-    <AssemblyName>KeLi.HelloDapper.SQLite</AssemblyName>
+    <AssemblyName>HelloDapper.SQLite</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

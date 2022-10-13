@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("KeLi.HelloDapper.SQLite")]
+[assembly: AssemblyTitle("HelloDapper.SQLite")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("KeLi")]
-[assembly: AssemblyProduct("KeLi.HelloDapper.SQLite")]
+[assembly: AssemblyProduct("HelloDapper.SQLite")]
 [assembly: AssemblyCopyright("Copyright © KeLi 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
